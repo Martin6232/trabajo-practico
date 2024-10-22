@@ -57,7 +57,7 @@ a {
 /*header*/
 
 
-/*body*/
+/*tarjeta*/
 
 .contenedor-flex{
     margin: 3px;
@@ -97,5 +97,6 @@ a {
     margin: 3px;
     border-radius: 8px;
     padding: 67px;
+    height: 45px;
     background-color: aliceblue;
 }
