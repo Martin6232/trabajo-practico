@@ -130,6 +130,7 @@ a {
     flex: 1;
     width: 90%;
     margin: 20px;
+    box-shadow:0px 0px 20px black;
 }
 
 #cuerpo-extras2 {
@@ -137,19 +138,18 @@ a {
     flex: 2;
     width: 90%;
     margin: 20px;
+    box-shadow:0px 0px 10px black;
 }
 
 #cabe-extras{
     height: 60px;
     background-color: #333333;
-    box-shadow:0px 0px 10px black;
     margin-bottom: ;
 }
 
 #body-extras{
-    height: 300px;
+    height: 200px;
     background-color: #ffff;
-    box-shadow:0px 0px 10px black;
 }
 
 
