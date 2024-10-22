@@ -62,7 +62,8 @@ a {
 #container {
     margin: 50px;
     display: flex;
-    
+    justify-content: center;
+    flex-flow: wrap-reverse  ;
     
 }
 
@@ -106,6 +107,7 @@ a {
     width: 60%;
     box-shadow:0px 0px 10px black;
     background-color: #FFFF;
+    margin: 20px;
     flex: 2;
 }
 
@@ -127,6 +129,7 @@ a {
     height: 300px;
     flex: 1;
     width: 90%;
+    margin: 20px;
 }
 
 #cabe-extras{
