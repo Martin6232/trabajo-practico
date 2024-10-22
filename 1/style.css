@@ -91,21 +91,22 @@ a {
 /* bases */
 .flex{
     display: flex;
-    height: 450px;
+    height: 300px;
     width: 60%;
     box-shadow:0px 0px 10px black;
+    background-color: #FFFF;
 }
 
 .targeta {
     background-color: #17a2b8;
-    height: 200px;
+    height: 20px;
     width: 100%;
-    
+    padding: 30px;
 }
 .texto {
     height: 250px;
     width: 100%;
-    background-color: #FFFF;
+    
     
 }
 
