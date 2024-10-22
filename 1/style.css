@@ -90,6 +90,15 @@ a {
     height: 80px;
     width: 80px;
 }
+
+.icono2 {
+    background-color: #FFFF;
+    border-radius: 90px;
+    padding: 2px;
+    height: 40px;
+    width: 40px;
+}
+
 /* bases */
 .flex{
     display: flex;
@@ -133,8 +142,4 @@ a {
 
 
 .img{
-
-    
-    
-    
 }
