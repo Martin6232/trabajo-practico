@@ -3,9 +3,11 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 .nav {
     display: flex;
     background-color:  #333333;
@@ -95,8 +97,8 @@ a {
 
 .cuerpo-tarjeta{
     margin: 3px;
-    border-radius: 5px;
     padding: 67px;
+    border-radius: 5px;
     height: 45px;
     background-color: rgb(244, 245, 247);
 }
