@@ -56,8 +56,8 @@ a {
 }
 /*header*/
 
-/*body*/
 
+/*body*/
 
 .contenedor-flex{
     margin: 3px;
@@ -84,11 +84,18 @@ a {
 }
 
 .encabezado-tarjeta{
-    margin: 1px;
+    margin: 0px;
     padding: 10px;
     border-radius: 8px;
     padding: 1px;
     height: 74px;
     border-radius: 5px;
     background-color: rgb(69, 180, 224);
+}
+
+.cuerpo-tarjeta{
+    margin: 3px;
+    border-radius: 8px;
+    padding: 67px;
+    background-color: aliceblue;
 }
