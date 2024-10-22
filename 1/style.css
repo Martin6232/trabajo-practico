@@ -14,7 +14,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     justify-content: center;
-
+    
 }
 
 .nav-title {
@@ -61,7 +61,10 @@ a {
 
 #container {
     margin: 50px;
-    
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-flow: column-reverse;
 }
 
 /*tarjeta*/
@@ -93,8 +96,10 @@ a {
     display: flex;
     height: 300px;
     width: 60%;
+    
     box-shadow:0px 0px 10px black;
     background-color: #FFFF;
+    flex: 3;
 }
 
 .targeta {
@@ -113,7 +118,8 @@ a {
 /*conocidos-en linae-education*/
 #cuerpo-extras {
     height: 300px;
-    width: 400px;
+    flex: 1;
+    width: 90%;
 }
 
 #cabe-extras{
