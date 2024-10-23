@@ -128,17 +128,17 @@ a {
 #cuerpo-extras {
     height: 300px;
     flex: 1;
-    width: 90%;
     margin: 20px;
     box-shadow:0px 0px 20px black;
+    
 }
 
 #cuerpo-extras2 {
     height: 300px;
     flex: 2;
-    width: 90%;
     margin: 20px;
     box-shadow:0px 0px 10px black;
+    
 }
 
 #cabe-extras{
@@ -149,6 +149,7 @@ a {
 #body-extras{
     height: 200px;
     background-color: #ffff;
+    padding: 10px;
 }
 
 
