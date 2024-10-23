@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .nav {
@@ -60,7 +60,8 @@ li {
 /*header*/
 
 #container {
-    margin: 50px;
+    margin: 100px;
+    margin-bottom: -100px;
     display: flex;
     justify-content: center;
     flex-flow: wrap-reverse  ;
@@ -121,6 +122,7 @@ a {
 .texto {
     height: 250px;
     width: 100%;
+    font-size: 20px;
 }
 
 /*conocidos-en linae-education*/
