@@ -38,7 +38,7 @@ li {
     padding-left:20px;
 }
 
-a {
+.active {
     color: #FFFF;
     text-decoration: none;
     font-size: 20px;
@@ -70,7 +70,8 @@ a {
 /*tarjeta*/
 
 a {
-    color: #5a96ea; 
+    color: #5a96ea;
+    text-decoration: none; 
 }
 
 /* imagenes */
@@ -103,7 +104,7 @@ a {
 /* bases */
 .flex{
     display: flex;
-    height: 300px;
+    height: 330px;
     width: 60%;
     box-shadow:0px 0px 10px black;
     background-color: #FFFF;
@@ -124,7 +125,7 @@ a {
 
 /*conocidos-en linae-education*/
 #cuerpo-extras {
-    height: 300px;
+    height: 330px;
     flex: 1;
     margin: 20px;
     box-shadow:0px 0px 20px black;
@@ -143,12 +144,15 @@ a {
     background-color: #333333;
 }
 
-#body-extras{
-    
+#body-extras {
     background-color: #ffff;
-    
+    padding: 20px;
 }
-
+#body-extras2 {
+    background-color: #ffff;
+    padding: 20px;
+    font-size: 25px;
+}
 
 h3{
     color: #ffff ;
