@@ -38,7 +38,7 @@ li {
     padding-left:20px;
 }
 
-a {
+.active {
     color: #FFFF;
     text-decoration: none;
     font-size: 20px;
@@ -70,7 +70,8 @@ a {
 /*tarjeta*/
 
 a {
-    color: #5a96ea; 
+    color: #5a96ea;
+    text-decoration: none; 
 }
 
 /* imagenes */
@@ -144,13 +145,13 @@ a {
 }
 
 #body-extras{
-    
     background-color: #ffff;
-    
+
 }
 
 
 h3{
     color: #ffff ;
-    padding: ;
+    padding: 20px;
 }
+
